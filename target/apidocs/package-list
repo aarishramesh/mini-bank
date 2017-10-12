@@ -1,0 +1,6 @@
+com.minibank.controller
+com.minibank.exceptions
+com.minibank.model
+com.minibank.model.response
+com.minibank.service
+com.minibank.util
